@@ -1,0 +1,7 @@
+id = "dogxi-theme-zed"
+name = "Dogxi Theme Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Dogxi <hi@dogxi.me>"]
+description = "Dogxi Theme Zed"
+repository = "https://github.com/dogxii/dogxi-theme-zed"

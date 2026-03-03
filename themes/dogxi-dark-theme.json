@@ -1,14 +1,18 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Dogxi Theme",
+  "name": "Dogxi Theme Zed",
   "author": "Dogxi <hi@dogxi.me>",
   "themes": [
     {
-      "name": "Dogxi Dark Theme",
+      "name": "Dogxi Theme Zed",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
-        "accents": ["#79b8ff", "#ffab70", "#b392f0"],
+        "accents": [
+          "#79b8ff",
+          "#ffab70",
+          "#b392f0"
+        ],
         "border": "#1b1f23",
         "border.variant": "#1b1f23",
         "border.focused": "#005cc5",
@@ -34,8 +38,8 @@
         "text.placeholder": "#959da5",
         "text.disabled": null,
         "text.accent": "#28a745",
-        "icon": null,
-        "icon.muted": null,
+        "icon": "#d1d5da",
+        "icon.muted": "#959da5",
         "icon.disabled": null,
         "icon.placeholder": "#959da5",
         "icon.accent": "#d1d5da",
@@ -160,7 +164,7 @@
         "success": null,
         "success.background": null,
         "success.border": "#1b1f23",
-        "unreachable": null,
+        "unreachable": "#959da5",
         "unreachable.background": null,
         "unreachable.border": "#1b1f23",
         "warning": "#ffea7f",
@@ -797,8 +801,12 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#1f2428",
+        "panel.overlay_hover": "#24292e"
       }
     }
-  ]
+  ],
+  "isUserGenerated": true,
+  "description": "Dogxi Theme Zed"
 }
