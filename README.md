@@ -1,8 +1,8 @@
-# Dogxi_Theme_Zed
+# Dogxi-Theme-Zed
 
 Zed theme for personal use
 
-Copy `Dogxi Theme.json` to `~/.config/zed/themes`
+Copy `Dogxi Dark Theme.json` to `~/.config/zed/themes`
 
 ```bash
 cp "Dogxi Theme.json" ~/.config/zed/themes/
