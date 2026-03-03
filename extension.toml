@@ -1,5 +1,3 @@
-[dogxi-theme-zed]
-submodule = "extensions/dogxi-theme-zed"
 id = "dogxi-theme-zed"
 name = "Dogxi Theme Zed"
 version = "0.0.1"
