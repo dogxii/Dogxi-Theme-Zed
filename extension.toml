@@ -1,6 +1,6 @@
 id = "dogxi-theme"
 name = "Dogxi Theme"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Dogxi <hi@dogxi.me>"]
 description = "Dogxi Theme for Zed"
