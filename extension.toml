@@ -1,7 +1,7 @@
-id = "dogxi-theme-zed"
-name = "Dogxi Theme Zed"
+id = "dogxi-theme"
+name = "Dogxi Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Dogxi <hi@dogxi.me>"]
-description = "Dogxi Theme Zed"
+description = "Dogxi Theme for Zed"
 repository = "https://github.com/dogxii/dogxi-theme-zed"
