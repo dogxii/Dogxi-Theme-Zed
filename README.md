@@ -2,7 +2,7 @@
 
 Zed theme for personal use
 
-Search `Dogxi Theme` in Zed Extension and enjoy it
+Search `Dogxi Theme` in Zed Extension
 
 ![demo1](screenshots/demo1.jpg)
 
